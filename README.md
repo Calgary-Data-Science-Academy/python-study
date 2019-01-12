@@ -10,4 +10,5 @@ The book consists of 14 chapters. The group members will study the first three c
 study session leaders will be posting related ppt, examples, and sample data in this repo.
 ## _**Q&A:**_ 
 Questions will be submitted as issues and study session leaders will be responsible for the answers.
-_**Estimated complete date:**_ Q2 2019.
+## _**Estimated complete date:**_ 
+Q2 2019.
